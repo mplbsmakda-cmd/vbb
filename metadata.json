@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Informasi Akademik MPLB - SMK LPPMRI 2 KEDUNGREJA",
+  "description": "A comprehensive digital learning platform for 10th-grade students in the Office Management and Business Services (MPLB) major at SMK LPPMRI 2 KEDUNGREJA. This platform includes a student portal and an admin panel, featuring material management, interactive assignments, attendance, real-time notifications, and announcements.",
+  "requestFramePermissions": []
+}
